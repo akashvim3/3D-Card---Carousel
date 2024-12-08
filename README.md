@@ -17,7 +17,7 @@ A stunning 3D Card Carousel built with modern web technologies to elevate your w
   🔧 Installation
 
     Clone the repository and get started:
-    git clone https://github.com/yourusername/3D-Card-Carousel.git
+    git clone https://github.com/akashvim3/3D-Card-Carousel.git
     cd 3D-Card-Carousel
 
 🖋️ Usage
