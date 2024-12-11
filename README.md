@@ -55,7 +55,7 @@ animation	Transition timing and effect	ease-in-out
 
 Check out the live demo here
 
-Experience the 3D Card Carousel in action! Check out the live demo [here](https://your-demo-link.com) to see the interactive features and smooth animations for yourself. 
+Experience the 3D Card Carousel in action! Check out the live demo [here](https://akashvim3.github.io/3D-Card---Carousel/) to see the interactive features and smooth animations for yourself. 
 
 Feel free to explore the carousel and see how it enhances your web or app UI!
   
