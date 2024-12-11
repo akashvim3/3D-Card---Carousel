@@ -50,6 +50,14 @@ Option	Description	Default Value
 cardWidth	Width of each card	300px
 gap	Spacing between cards	10px
 animation	Transition timing and effect	ease-in-out
+
+🌐 Demo
+
+Check out the live demo here
+
+Experience the 3D Card Carousel in action! Check out the live demo [here](https://your-demo-link.com) to see the interactive features and smooth animations for yourself. 
+
+Feel free to explore the carousel and see how it enhances your web or app UI!
   
 🤝 Contributing
 
